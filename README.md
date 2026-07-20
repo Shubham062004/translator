@@ -17,6 +17,6 @@ python translator.py
 ```
 
 ### Features
-- Enter text in English and target language (e.g. `french`, `hindi`, `spanish`, `punjabi`, etc., or ISO language codes like `fr`, `hi`, `es`, `pa`).
+- **[PR 1] Basic Text Translator**: Enter text in English and target language (e.g. `french`, `hindi`, `spanish`, `punjabi`, etc., or ISO language codes like `fr`, `hi`, `es`, `pa`).
 - Supports 100+ languages provided by Google Translate.
-- Clean terminal prompt loop with exception handling.
+- Clean terminal prompt loop with exception handling and UTF-8 safe output logging.
